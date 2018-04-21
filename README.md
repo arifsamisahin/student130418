@@ -1,6 +1,6 @@
 # Educational Institutions Management System
 
-<p>April 17, 2018 <br><br>Arif Sami Sahin</p>
+<p>April 17, 2018 by Arif Sami Sahin</p>
 
 <h2>Overview</h2>
 <p>This application developed for any educational institution, training centers, private teaching institutions and such similar institutions. Students, teachers and sub users can be managed easily. It aims first to improve educational efficiency and make all other  things easier. Thanks to unique student attendance feature; attendance report of each student, which lessons the student attend or not or recovered later, attendance rate result for each lesson which taken by a student and it's summary, reports of how many hours each teacher have given lesson by the time and so many reports like those can be viewed and printed. Also, it has got birthday reminders for all students, teachers and sub users. Additionally payments can be managed.</p>
