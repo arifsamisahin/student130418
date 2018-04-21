@@ -121,12 +121,12 @@
       }
   }
 
-  $instance = new SMS_Api("eladil", "13481632@");
+  $instance = new SMS_Api("username", "password");
   echo $instance->getBalance();
   echo "<br>-----<br>";
   //echo $instance->getQuery("905453251571", '1');
-  echo $instance->submit("ELA DiL AKT", "merhaba sefa", array("905530112199"));
-  //echo $instance->submitMulti("ELA DiL AKT", array(array("905453251571", "test1"), array("905530112199", "merhaba sefa")));
+  echo $instance->submit("Company Name", "Hello there", array("905453251570"));
+  //echo $instance->submitMulti("Comp Name", array(array("905453251570", "test1"), array("905453251569", "test2")));
 
 
 ?>
